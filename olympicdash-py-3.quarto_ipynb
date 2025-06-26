@@ -15,7 +15,7 @@
         "logo-alt: \"Olympics logo with multicolored circles.\"\n",
         "---"
       ],
-      "id": "1e7023fd"
+      "id": "babe7e53"
     },
     {
       "cell_type": "code",
@@ -66,7 +66,7 @@
       "source": [
         "# 🌞 Summer Olympics\n"
       ],
-      "id": "1e22ea3b"
+      "id": "15eb77e5"
     },
     {
       "cell_type": "code",
@@ -88,7 +88,7 @@
         "\n",
         "### Row - Medals by sport {height=\"60%\"}\n"
       ],
-      "id": "109cbcbf"
+      "id": "ff52facd"
     },
     {
       "cell_type": "code",
@@ -143,7 +143,7 @@
         "::: {.card title=\"Medals by year\"}\n",
         "Due to World War II, no olympic games were held in 1940 and 1944.\n"
       ],
-      "id": "a19f8535"
+      "id": "f89ca1dd"
     },
     {
       "cell_type": "code",
@@ -188,7 +188,7 @@
         "\n",
         "### Row - Value boxes {height=\"30%\"}\n"
       ],
-      "id": "6c2d88e9"
+      "id": "177b4be0"
     },
     {
       "cell_type": "code",
@@ -254,7 +254,7 @@
         "\n",
         "### Row - Tabsets of tables {.tabset height=\"70%\"}\n"
       ],
-      "id": "99374a80"
+      "id": "219d3525"
     },
     {
       "cell_type": "code",
@@ -306,7 +306,7 @@
         "::: {.card title=\"Top 30 total medals\"}\n",
         "Teams sorted in descending order of total medals.\n"
       ],
-      "id": "ca4d8bc2"
+      "id": "c1d5bf30"
     },
     {
       "cell_type": "code",
@@ -333,7 +333,7 @@
         "::: {.card title=\"Bottom 30 total medals\"}\n",
         "Teams sorted in ascending order of total medals.\n"
       ],
-      "id": "ec1d5173"
+      "id": "83a09858"
     },
     {
       "cell_type": "code",
@@ -359,7 +359,7 @@
         "\n",
         "# ❄️ Winter Olympics\n"
       ],
-      "id": "1ba8e03b"
+      "id": "684b0de5"
     },
     {
       "cell_type": "code",
@@ -381,7 +381,7 @@
         "\n",
         "### Row - Medals by sport {height=\"60%\"}\n"
       ],
-      "id": "f1da87af"
+      "id": "43f6a177"
     },
     {
       "cell_type": "code",
@@ -436,7 +436,7 @@
         "::: {.card title=\"Medals by year\"}\n",
         "Due to World War II, no olympic games were held in 1940 and 1944.\n"
       ],
-      "id": "bc736d36"
+      "id": "6feb6f32"
     },
     {
       "cell_type": "code",
@@ -479,7 +479,7 @@
         "\n",
         "### Row - Value boxes {height=\"30%\"}\n"
       ],
-      "id": "6b2a903c"
+      "id": "fe3d0566"
     },
     {
       "cell_type": "code",
@@ -545,7 +545,7 @@
         "\n",
         "### Row - Tabsets of tables {.tabset height=\"70%\"}\n"
       ],
-      "id": "fd255c10"
+      "id": "c987055b"
     },
     {
       "cell_type": "code",
@@ -597,7 +597,7 @@
         "::: {.card title=\"Top 30 total medals\"}\n",
         "Teams sorted in descending order of total medals.\n"
       ],
-      "id": "46d87ab2"
+      "id": "753fad98"
     },
     {
       "cell_type": "code",
@@ -624,7 +624,7 @@
         "::: {.card title=\"Bottom 30 total medals\"}\n",
         "Teams sorted in ascending order of total medals.\n"
       ],
-      "id": "842bf59d"
+      "id": "e424b8a3"
     },
     {
       "cell_type": "code",
@@ -648,7 +648,7 @@
       "source": [
         ":::"
       ],
-      "id": "b2adf2c9"
+      "id": "8f183264"
     }
   ],
   "metadata": {

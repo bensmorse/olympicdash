@@ -1,0 +1,4 @@
+- source: olympicdash-r-1.qmd
+  quarto-pub:
+    - id: 4a2c2d99-2344-42f1-8c95-ef0817e26111
+      url: https://bensmorse.quarto.pub/olympic-games
